@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = _isTransformer;\nfunction _isTransformer(obj) {\n  return typeof obj['@@transducer/step'] === 'function';\n}"},"hash":"cf6d8992f36dbdefd14a946ee48914f3"}

@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/main.js","dynamic":true}],"generated":{"html":"<html>\n  <head>\n    <title> 无状态组件 示例 </title>\n  </head>\n  <body>\n    <div id=\"app\">\n    </div>\n    <script src=\"/dist/cddb2d5892f90c3c7e753d26bc1a6447.js\"></script>\n  </body>\n</html>\n"},"hash":"3fc0fd9f058a413d3b63f2022f537ce9"}
